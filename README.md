@@ -1,3 +1,10 @@
+# 种族介绍
+看了王老菊的视频后想玩这个游戏,虽然英语没什么问题但里面很多种族的说明一眼看过去还是不太明白,毕竟太多奇奇怪怪的名字了.还是一次性全都翻译一下方便理解.  
+终于完成了`dredgers`种族的中文翻译,大概花了2天时间,希望能帮助到大家.  
+有疑问请反映到我的[Github Issue](https://github.com/Rugal/dredgers/issues)  
+
+>Translated by [Rugal Bernstein](https://rug.al)
+
 ## 人类
 ![](./human/avatar.png)
 
